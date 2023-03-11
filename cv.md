@@ -2,10 +2,10 @@
 
 ### Junior Frontend Developer
 
-**Phone:** +7 (993) 565-86-10<br>
-**E-mail:** dshvaybovich@list.ru<br>
-**Telegram:** @Dianamur_r<br>
-**GitHub:** ShvaibovichDiana<br>
+**Phone:** +7 (993) 565-86-10<br/>
+**E-mail:** dshvaybovich@list.ru<br/>
+**Telegram:** @Dianamur_r<br/>
+**GitHub:** ShvaibovichDiana<br/>
 
 ---
 
